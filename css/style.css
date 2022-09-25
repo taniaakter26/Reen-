@@ -373,7 +373,7 @@ a,a:hover{
 	border-radius: 2px;
 }
 .widget .subscribe .form-control{
-	color: #4e5c6c;
+	background: #4e5c6c;
 	border: 1px solid #4e5c6c;
 	padding: 12px;
 	font-size: 14px;
