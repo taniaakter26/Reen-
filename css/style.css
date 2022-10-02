@@ -78,6 +78,12 @@ a,a:hover{
 	width: 100%;
 	padding: 20px 0px;
 }
+.header-section .navbar-wrapper {
+  margin-top: 0px;
+  position: relative;
+  z-index: 15;
+  background: #fff;
+}
 .main-menu .navbar-nav .nav-item .nav-link{
 	font-size: 14px;
 	font-weight: 700;
@@ -269,7 +275,7 @@ a,a:hover{
 	background: #506a85;
 }
 /*latest-work section stars*/
-/*get in touch starts*/
+/*want to work with us section starts*/
 .get-touch{
 	width: 100%;
 	padding: 100px 0px;
@@ -306,6 +312,8 @@ a,a:hover{
 	background: transparent !important;
 	border: 1px solid #00bc9c !important;
 }
+/*want to work with us section end*/
+
 .footer{
 	width: 100%;
 	
