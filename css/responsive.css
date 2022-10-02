@@ -1,0 +1,497 @@
+
+/* low resulation mobile phone--glaxy fold */
+@media (min-width: 279px) and (max-width: 319px){
+/* small-device code start */
+
+.top-header .info{
+	text-align: center;
+}
+.top-header .social-icons{
+	text-align: center;
+}
+.slider .carousel .carousel-item .carousel-caption{
+	bottom: 16%;
+	display: block !important;
+}
+.slider .carousel .carousel-item .carousel-caption h2{
+	font-size: 16px;
+	line-height: 26px;
+}
+.slider .carousel .carousel-item .carousel-caption p{
+	font-size: 9px;
+	line-height: 18px;
+	margin: 0px 0px 0px 5px;
+}
+.slider .carousel .carousel-item .carousel-caption .btn-success{
+  padding: 5px 10px;
+  font-size: 8px;
+  letter-spacing: 1px;
+}
+.slider .carousel .carousel-item .w-100{
+	height: 250px;
+}
+.who-we-are{
+	padding: 20px 0px;
+}
+.who-we-are .title {
+    padding: 0px 0px 20px;
+}
+.who-we-are .title h1{
+	font-size: 32px;
+	line-height: 42px;
+	padding: 25px 0px 0px 0px;
+}
+.who-we-are .title p {
+    font-size: 12px;
+    line-height: 22px;
+    text-align: center;
+}
+.who-we-are .img-icon {
+    height: 0px;
+    width: 6px;
+}
+.who-we-are .inner-text {
+    width: 100%;
+    padding: 0px 0px 0px 60px;
+}
+.who-we-are .img-icon img {
+    width: 40px;
+}
+.latest-work .title h2 {
+    font-size: 30px; 
+    line-height: 40px;
+}
+.latest-work .card{
+	margin: 0px 0px 10px;
+}
+.latest-work .owl-carousel{
+	padding: 20px 0px 0px;
+}
+.get-touch h2{
+	font-size: 31px;
+	line-height: 41px;
+}
+.get-touch p{
+	font-size: 12px;
+    line-height: 22px;
+}
+.get-touch .btn-success {
+    padding: 10px 15px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: -15px 0px 0px 0px;
+ }   
+.footer .img-fluid {
+    width: 171px;
+    height: 121px;
+    margin: 0px 40px 15px;
+}
+.footer .widget-section {   
+    padding: 30px 0px;
+}
+.footer .widget .flogo {
+    margin: 0px 0px 10px 61px;
+}
+.footer .widget h4{
+	margin: 10px 0px 13px 54px;
+}
+.footer .widget p {
+    padding: 4px;
+    text-align: justify;
+}
+.footer .widget ul{
+	text-align: center;
+	margin: -10px 0px 0px 0px;
+}
+
+.footer .widget .btn-link{
+	margin: -10px 0px 21px 61px;
+}
+.footer .main-footer a{
+	margin: 42px 8px 0px 0px;
+}
+.footer .main-footer p{
+	text-align: center;
+}
+
+/* small-device code end */
+}
+
+/* most of the smartphone devices */
+@media (min-width: 320px) and (max-width: 480px){
+/* maximum device code start */
+.top-header .info{
+	text-align: center;
+}
+.top-header .social-icons{
+	text-align: center;
+}
+
+.slider .carousel .carousel-item .carousel-caption{
+	bottom: 12%;
+	display: block !important;
+}
+.slider .carousel .carousel-item .carousel-caption h2{
+	font-size: 16px;
+	line-height: 26px;
+}
+.slider .carousel .carousel-item .carousel-caption h2 span{
+     line-height: 0px; 
+}
+.slider .carousel .carousel-item .carousel-caption p{
+	font-size: 9px;
+	line-height: 18px;
+	margin: 0px 0px 0px 5px;
+}
+.slider .carousel .carousel-item .carousel-caption .btn-success{
+  padding: 5px 10px;
+  font-size: 8px;
+  letter-spacing: 1px;
+}
+.slider .carousel .carousel-item .w-100{
+	height: 250px;
+}
+.who-we-are{
+	padding: 20px 0px;
+}
+.who-we-are .who-text {
+    margin: 0px 22px 22px 0px;
+}
+.who-we-are .title {
+    padding: 0px 0px 20px;
+}
+.who-we-are .title h1{
+	font-size: 32px;
+	line-height: 42px;
+	padding: 25px 0px 0px 0px;
+}
+.who-we-are .title p {
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+}
+.who-we-are .img-icon {
+    height: 0px;
+    width: 6px;
+}
+.who-we-are .img-icon img {
+    width: 40px;
+    margin: 0px 0px 0px 15px;
+}
+.who-we-are .inner-text {
+    width: 100%;
+    padding: 0px 0px 0px 60px;
+}
+.latest-work .title h2 {
+    font-size: 30px; 
+    line-height: 40px;
+}
+.latest-work .card{
+	margin: 0px 0px 10px;
+}
+.latest-work .owl-carousel{
+	padding: 20px 0px 0px;
+}
+.get-touch h2{
+	font-size: 29px;
+	line-height: 39px;
+}
+.get-touch p{
+	font-size: 14px;
+    line-height: 24px;
+}
+.get-touch .btn-success {
+    padding: 10px 15px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: -15px 0px 0px 0px;
+ }   
+.footer .img-fluid {
+    width: 171px;
+    height: 121px;
+    margin: 0px 90px 15px;
+}
+.footer .widget-section {   
+    padding: 30px 0px;
+}
+.footer .widget .flogo {
+   margin: 5px 0px 10px 101px;
+}
+.footer .widget h4{
+	margin: 10px 0px 13px 95px;
+}
+.footer .widget p {
+    padding: 4px;
+    text-align: justify;
+}
+.footer .widget ul{
+	text-align: center;
+	margin: -10px 0px 0px 0px;
+}
+
+.footer .widget .btn-link{
+	margin: -10px 0px 21px 100px;
+}
+.footer .main-footer a{
+	margin: 42px 8px 0px 0px;
+}
+.footer .main-footer p{
+	text-align: center;
+}
+/*maximum device code end*/
+}
+
+/* mobile phone and low resulation tablet */
+@media (min-width: 481px) and (max-width: 767px){
+/* mobile device code starts */
+.top-header .info{
+	text-align: center;
+}
+.top-header .social-icons{
+	text-align: center;
+}
+
+.slider .carousel .carousel-item .carousel-caption{
+	bottom: 12%;
+	display: block !important;
+}
+.slider .carousel .carousel-item .carousel-caption h2{
+	font-size: 16px;
+	line-height: 26px;
+}
+.slider .carousel .carousel-item .carousel-caption h2 span{
+     line-height: 0px; 
+}
+.slider .carousel .carousel-item .carousel-caption p{
+	font-size: 9px;
+	line-height: 18px;
+	margin: 0px 0px 0px 5px;
+}
+.slider .carousel .carousel-item .carousel-caption .btn-success{
+  padding: 5px 10px;
+  font-size: 8px;
+  letter-spacing: 1px;
+}
+.slider .carousel .carousel-item .w-100{
+	height: 250px;
+}
+.who-we-are{
+	padding: 20px 0px;
+}
+.who-we-are .who-text {
+    margin: 0px 22px 22px 0px;
+}
+.who-we-are .title {
+    padding: 0px 0px 20px;
+}
+.who-we-are .title h1{
+	font-size: 32px;
+	line-height: 42px;
+	padding: 25px 0px 0px 0px;
+}
+.who-we-are .title p {
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+}
+.who-we-are .img-icon {
+    height: 0px;
+    width: 6px;
+}
+.who-we-are .img-icon img {
+    width: 40px;
+    margin: 0px 0px 0px 15px;
+}
+.who-we-are .inner-text {
+    width: 100%;
+    padding: 0px 0px 0px 60px;
+}
+.latest-work .title h2 {
+    font-size: 30px; 
+    line-height: 40px;
+}
+.latest-work .card{
+	margin: 0px 0px 10px;
+}
+.latest-work .owl-carousel{
+	padding: 20px 0px 0px;
+}
+.get-touch h2{
+	font-size: 29px;
+	line-height: 39px;
+}
+.get-touch p{
+	font-size: 14px;
+    line-height: 24px;
+}
+.get-touch .btn-success {
+    padding: 10px 15px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: -15px 0px 0px 0px;
+ }   
+.footer .img-fluid {
+    width: 171px;
+    height: 121px;
+    margin: 0px 90px 15px;
+}
+.footer .widget-section {   
+    padding: 30px 0px;
+}
+.footer .widget .flogo {
+   margin: 5px 0px 10px 101px;
+}
+.footer .widget h4{
+	margin: 10px 0px 13px 95px;
+}
+.footer .widget p {
+    padding: 4px;
+    text-align: justify;
+}
+.footer .widget ul{
+	text-align: center;
+	margin: -10px 0px 0px 0px;
+}
+
+.footer .widget .btn-link{
+	margin: -10px 0px 21px 100px;
+}
+.footer .main-footer a{
+	margin: 42px 8px 0px 0px;
+}
+.footer .main-footer p{
+	text-align: center;
+}
+/* mobile device code end */
+}
+
+/* tablet, notebook */
+@media (min-width: 768px) and (max-width: 1024px){
+/* tablet device code start*/
+.top-header .info{
+	text-align: center;
+}
+.top-header .social-icons{
+	text-align: center;
+}
+
+.slider .carousel .carousel-item .carousel-caption{
+	bottom: 10%;
+	display: block !important;
+}
+.slider .carousel .carousel-item .carousel-caption h2{
+	font-size: 16px;
+	line-height: 26px;
+}
+.slider .carousel .carousel-item .carousel-caption h2 span{
+     line-height: 0px; 
+}
+.slider .carousel .carousel-item .carousel-caption p{
+	font-size: 9px;
+	line-height: 18px;
+	margin: 0px 0px 0px 5px;
+}
+.slider .carousel .carousel-item .carousel-caption .btn-success{
+  padding: 5px 10px;
+  font-size: 8px;
+  letter-spacing: 1px;
+}
+.slider .carousel .carousel-item .w-100{
+	height: 350px;
+}
+.who-we-are{
+	padding: 20px 0px;
+}
+.who-we-are .who-text {
+    margin: 0px 22px 22px 0px;
+}
+.who-we-are .title {
+    padding: 0px 0px 20px;
+}
+.who-we-are .title h1{
+	font-size: 32px;
+	line-height: 42px;
+	padding: 25px 0px 0px 0px;
+}
+.who-we-are .title p {
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+}
+.who-we-are .img-icon {
+    height: 0px;
+    width: 6px;
+}
+.who-we-are .img-icon img {
+    width: 40px;
+    margin: 0px 0px 0px 15px;
+}
+.who-we-are .inner-text {
+    width: 100%;
+    padding: 0px 0px 0px 60px;
+}
+.latest-work .title h2 {
+    font-size: 30px; 
+    line-height: 40px;
+}
+.latest-work .card{
+	margin: 0px 0px 10px;
+}
+.latest-work .owl-carousel{
+	padding: 20px 0px 0px;
+}
+.get-touch h2{
+	font-size: 29px;
+	line-height: 39px;
+}
+.get-touch p{
+	font-size: 14px;
+    line-height: 24px;
+}
+.get-touch .btn-success {
+    padding: 10px 15px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: -15px 0px 0px 0px;
+ }   
+.footer .img-fluid {
+    width: 171px;
+    height: 121px;
+    margin: 0px 90px 15px;
+}
+.footer .widget-section {   
+    padding: 30px 0px;
+}
+.footer .widget .flogo {
+   margin: 5px 0px 10px 101px;
+}
+.footer .widget h4{
+	margin: 10px 0px 13px 95px;
+}
+.footer .widget p {
+    padding: 4px;
+    text-align: justify;
+}
+.footer .widget ul{
+	text-align: center;
+	margin: -10px 0px 0px 0px;
+}
+
+.footer .widget .btn-link{
+	margin: -10px 0px 21px 100px;
+}
+.footer .main-footer a{
+	margin: 42px 8px 0px 0px;
+}
+.footer .main-footer p{
+	text-align: center;
+}
+/*tablet device code end*/
+  }
