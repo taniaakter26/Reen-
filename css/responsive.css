@@ -373,27 +373,35 @@
 /* tablet, notebook */
 @media (min-width: 768px) and (max-width: 1024px){
 /* tablet device code start*/
+.top-header{
+    padding: 20px 0px;
+}
 .top-header .info{
-	text-align: center;
+	text-align: left;
+    margin-left: -19px;
 }
 .top-header .social-icons{
-	text-align: center;
+	text-align: right;
+    margin-left: -8px;
 }
 
 .slider .carousel .carousel-item .carousel-caption{
-	bottom: 10%;
+	bottom: 26%;
 	display: block !important;
 }
+.slider .carousel .carousel-item .text-top {
+    top: 5%;
+}
 .slider .carousel .carousel-item .carousel-caption h2{
-	font-size: 16px;
-	line-height: 26px;
+	font-size: 35px;
+	line-height: 45px;
 }
 .slider .carousel .carousel-item .carousel-caption h2 span{
      line-height: 0px; 
 }
 .slider .carousel .carousel-item .carousel-caption p{
-	font-size: 9px;
-	line-height: 18px;
+	font-size: 14px;
+	line-height: 24px;
 	margin: 0px 0px 0px 5px;
 }
 .slider .carousel .carousel-item .carousel-caption .btn-success{
@@ -430,11 +438,11 @@
 }
 .who-we-are .img-icon img {
     width: 40px;
-    margin: 0px 0px 0px 15px;
+    margin: 0px 0px 0px 60px;
 }
 .who-we-are .inner-text {
     width: 100%;
-    padding: 0px 0px 0px 60px;
+    padding: 0px 0px 0px 72px;
 }
 .latest-work .title h2 {
     font-size: 30px; 
@@ -470,14 +478,24 @@
     padding: 30px 0px;
 }
 .footer .widget .flogo {
-   margin: 5px 0px 10px 101px;
+    position: relative;
+    left: 41%;
+}
+.footer .widget .widget-inner {
+    width: 69%;
+    padding: 0px 0px 0px 69px;
 }
 .footer .widget h4{
-	margin: 10px 0px 13px 95px;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    margin: 38px 0px 20px;
 }
 .footer .widget p {
-    padding: 4px;
-    text-align: justify;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    padding: 6px;
 }
 .footer .widget ul{
 	text-align: center;
